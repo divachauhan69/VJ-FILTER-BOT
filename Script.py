@@ -4,14 +4,13 @@
 
 class script(object):
     START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {} 👋,</blockquote>
-    
-🎬 Welcome to MovieVerse! 🍿
-Enjoy the latest movies & web series in HD — stream or download, all for free!
+🎬 Welcome to MovieVerse!
+Type any movie or series name to stream or download in HD — absolutely free!
 
-🔍 Just type the name of the movie or series to begin.
+❗Can’t find something? Request it here: @HD_Movie_Zone_Requests
 
-❗Can't find your movie?
-No worries! You can request it here: @HD_Movie_Zone_Requests
+⚠️ Added the bot to a group?
+To make it work in the group, ask the bot admin to DM @deadly_rizzu for activation.
 </b>"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
