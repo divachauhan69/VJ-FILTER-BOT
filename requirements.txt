@@ -5,8 +5,7 @@ bs4
 shortzy 
 pytz 
 aiohttp
-yt-dlp
-youtube-dl
+yt-dlp>=2023.12.30
 ytthumb
 jinja2
 apscheduler
@@ -39,3 +38,5 @@ dnspython==2.3.0
 ffmpeg-python>=0.2.0
 openai==0.25.0
 git+https://github.com/Joelkb/cinemagoer
+pyromod
+
